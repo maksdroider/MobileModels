@@ -69,17 +69,27 @@
 
 `BND-L24`: HONOR 7X (United States)
 
-**HONOR 7C (`London`):**
+**HONOR 7C/7С Pro (`London`):**
 
-`LND-L29` `LND-AL30`: HONOR 7C
+`LND-L29`: HONOR 7C/7C Pro
 
-**HONOR 7A (`Atomu`):**
+`LND-AL30`: HONOR 7C
 
-`AUM-L29` `AUM-L33` `AUM-L41` `AUM-AL20`: HONOR 7A
+**HONOR 7C (`Atomu`):**
 
-**HONOR 7S (`Dura`):**
+`AUM-L41`: HONOR 7C
 
-`DRA-LX5` `DRA-AL00IA` `DUA-L22` `DUA-LX3`: HONOR 7S
+**HONOR 7A/7A Pro (`Atomu`):**
+
+`AUM-L29`: HONOR 7A/7A Pro
+
+`AUM-L33` `AUM-AL20`: HONOR 7A
+
+**HONOR 7S/7A (`Dura`):**
+
+`DUA-L22`: HONOR 7S/7A
+
+`DUA-LX3`: HONOR 7S
 
 **HONOR 8 (`Faraday`):**
 
